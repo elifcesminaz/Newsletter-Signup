@@ -1,7 +1,7 @@
 # Newsletter-Signup
 
-![Design preview for the NFT preview card component coding challenge](./images/images1.png)
+![Design preview for the NFT preview card component coding challenge](./images/image1.png)
 
-![Design preview for the NFT preview card component coding challenge](./images/images2.png)
+![Design preview for the NFT preview card component coding challenge](./images/image2.png)
 
-![Design preview for the NFT preview card component coding challenge](./images/images3.png)
+![Design preview for the NFT preview card component coding challenge](./images/image3.png)
